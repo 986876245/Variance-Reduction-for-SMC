@@ -1,4 +1,4 @@
-function [ indx ] = resampleResidual(w, N)
+function [ indx ] = resampleProposal(w, N)
 if nargin == 1
    N = length(w);
 end
