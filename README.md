@@ -23,7 +23,8 @@ Supporting files
 **particleFilter.m** Implements the faPF for the LGSS model.
 **particleFilterSVmodel.m** Implements the bPF for the SV model.
 **particleMetropolisHastings.m** Implements the PMH algorithm for the LGSS model.
-**particleMetropolisHastingsSVmodel.m** Implements the PMH algorithm for the SV model.
+**particleMetropolisHastingsSVmodel.m** Implements the PMH algorithm for the SV model.<br>
+**resampling\*.m**Implements the different resampling method to compare with our proposal.
 
 Adapting the code for another model
 --------------
