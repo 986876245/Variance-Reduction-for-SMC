@@ -10,19 +10,19 @@ The code is written and tested for MATLAB 2021a and makes use of the statistics 
 
 Main script files
 --------------
-These are the main script files that implement the various algorithms discussed in the tutorial.
+These are the main script files that implement the various algorithms discussed in the tutorial.<br>
 
-**example1_lgss.m** State estimation in a LGSS model with different resampling mechanisms. The code is discussed in Section 4.1 and the results are presented in this Section.
+**example1_lgss.m** State estimation in a LGSS model with different resampling mechanisms. The code is discussed in Section 4.1 and the results are presented in this Section.<br>
 
 **example2_sv.m** Parameter estimation of three parameters in the SV model using PMH with the bootstrap PF as the likelihood estimator with different resmapling method. The code is discussed in Section 4.2 and the results are presented in this section.
 
 Supporting files
 --------------
-**generateData.m** Implements data generation for the LGSS model.
-**kalmanFilter.m** Implements the Kalman filter for the LGSS model.
-**particleFilter.m** Implements the faPF for the LGSS model.
-**particleFilterSVmodel.m** Implements the bPF for the SV model.
-**particleMetropolisHastings.m** Implements the PMH algorithm for the LGSS model.
+**generateData.m** Implements data generation for the LGSS model.<br>
+**kalmanFilter.m** Implements the Kalman filter for the LGSS model.<br>
+**particleFilter.m** Implements the faPF for the LGSS model.<br>
+**particleFilterSVmodel.m** Implements the bPF for the SV model.<br>
+**particleMetropolisHastings.m** Implements the PMH algorithm for the LGSS model.<br>
 **particleMetropolisHastingsSVmodel.m** Implements the PMH algorithm for the SV model.<br>
 **resampling\*.m**Implements the different resampling method to compare with our proposal.
 
