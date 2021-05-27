@@ -37,5 +37,5 @@ Xiongming Dai & Gerald Baumgartner "Variance Reduction for Sequential Monte Carl
 
 Copyright information
 --------------
-Mit license 
+MIT license 
 ```
