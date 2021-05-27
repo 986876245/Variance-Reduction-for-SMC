@@ -6,7 +6,7 @@ Note that the MATLAB code in this folder covers the basic implementations in the
 
 Requirements
 --------------
-The code is written and tested for MATLAB 2015b and makes use of the statistics toolbox and the Quandl package. See https://github.com/quandl/Matlab for more installation and to download the toolbox. Note that urlread2 is required by the Quandl toolbox and should be installed as detailed in the README file of the Quandl toolbox.
+The code is written and tested for MATLAB 2021a and makes use of the statistics toolbox and the Quandl package. See https://github.com/quandl/Matlab for more installation and to download the toolbox. Note that urlread2 is required by the Quandl toolbox and should be installed as detailed in the README file of the Quandl toolbox.
 
 Main script files
 --------------
