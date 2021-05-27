@@ -27,30 +27,15 @@ Supporting files
 
 Adapting the code for another model
 --------------
-See the discussion in *README.MD* in the directory *r/*.
+Direct revise the resample schema and then load into the main test script files.
 
 Reference
 --------------
-J. Dahlin and T. B. Schön, **Getting started with particle Metropolis-Hastings for inference in nonlinear models**. Pre-print, arXiv:1511:01707, 2017.
+Xiongming Dai & Gerald Baumgartner "Variance Reduction for Sequential Monte Carlo",https://openreview.net/pdf?id=3XinbUbSzPq
 
 
 
 Copyright information
 --------------
-``` R
-##############################################################################
-# This program is free software; you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation; either version 2 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License along
-# with this program; if not, write to the Free Software Foundation, Inc.,
-# 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-##############################################################################
+Mit license 
 ```
