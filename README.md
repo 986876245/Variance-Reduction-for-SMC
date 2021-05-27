@@ -31,7 +31,7 @@ Direct revise the resample schema and then load into the main test script files.
 
 Reference
 --------------
-Xiongming Dai & Gerald Baumgartner "Variance Reduction for Sequential Monte Carlo",https://openreview.net/pdf?id=3XinbUbSzPq
+"Variance Reduction for Sequential Monte Carlo",https://openreview.net/pdf?id=3XinbUbSzPq
 
 
 
