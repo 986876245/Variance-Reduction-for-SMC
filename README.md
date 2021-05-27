@@ -1,6 +1,6 @@
-# Variance Reduction for SMC
+# Variance Reduction of Resampling for SMC
 
-This MATLAB code implements the Variance Reduction for Sequential Monte Carlo, which is built in two different dynamical models: a linear Gaussian state-space (LGSS) model and a stochastic volatility (SV) model. The details of our proposal is described in the paper available at https://openreview.net/pdf?id=3XinbUbSzPq
+This MATLAB code implements the Variance Reduction of Resampling for Sequential Monte Carlo, which is built in two different dynamical models: a linear Gaussian state-space (LGSS) model and a stochastic volatility (SV) model. The details of our proposal is described in the paper available at https://openreview.net/pdf?id=3XinbUbSzPq
 
 Note that the MATLAB code in this folder covers the basic implementations in the paper. The notation of the variables has been changed sligthly compared with the tutorial paper to improve readability of the code. However, it should be easy to translate between the two. 
 
