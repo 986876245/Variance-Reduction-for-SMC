@@ -12,9 +12,9 @@ Main script files
 --------------
 These are the main script files that implement the various algorithms discussed in the tutorial.
 
-**example1_lgss.m** State estimation in a LGSS model using the KM and a fully-adapted PF (faPF). The code is discussed in Section 3.1 and the results are presented in Section 3.2 as Figure 4 and Table 1.
+**example1_lgss.m** State estimation in a LGSS model with different resampling mechanisms. The code is discussed in Section 4.1 and the results are presented in this Section.
 
-**example2_sv.m** Parameter estimation of three parameters in the SV model using PMH with the bootstrap PF as the likelihood estimator. The code is discussed in Section 5.1 and the results are presented in Section 5.2 as Figure 6. The code takes about an hour to run.
+**example2_sv.m** Parameter estimation of three parameters in the SV model using PMH with the bootstrap PF as the likelihood estimator with different resmapling method. The code is discussed in Section 4.2 and the results are presented in this section.
 
 Supporting files
 --------------
