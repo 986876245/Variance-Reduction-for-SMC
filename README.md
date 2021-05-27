@@ -1,12 +1,12 @@
-# MATLAB code for PMH tutorial
+# Variance Reduction for SMC
 
-This MATLAB code implements the Kalman filter (KF), particle filter (PF) and particle Metropolis-Hastings (PMH) algorithm for two different dynamical models: a linear Gaussian state-space (LGSS) model and a stochastic volatility (SV) model. Note that the Kalman filter can only be employed for the first of these two models. The details of the code is described in the tutorial paper available at http://arxiv.org/pdf/1511.01707
+This MATLAB code implements the Variance Reduction for Sequential Monte Carlo, which is built in two different dynamical models: a linear Gaussian state-space (LGSS) model and a stochastic volatility (SV) model. The details of our proposal is described in the paper available at https://openreview.net/pdf?id=3XinbUbSzPq
 
-Note that the MATLAB code in this folder covers the basic implementations in the paper. The notation of the variables has been changed sligthly compared with the tutorial paper to improve readability of the code. However, it should be easy to translate between the two. See the R code in r/ for all the implementations and to recreate the results in the tutorial.
+Note that the MATLAB code in this folder covers the basic implementations in the paper. The notation of the variables has been changed sligthly compared with the tutorial paper to improve readability of the code. However, it should be easy to translate between the two. 
 
 Requirements
 --------------
-The code is written and tested for MATLAB 2016b and makes use of the statistics toolbox and the Quandl package. See https://github.com/quandl/Matlab for more installation and to download the toolbox. Note that urlread2 is required by the Quandl toolbox and should be installed as detailed in the README file of the Quandl toolbox.
+The code is written and tested for MATLAB 2015b and makes use of the statistics toolbox and the Quandl package. See https://github.com/quandl/Matlab for more installation and to download the toolbox. Note that urlread2 is required by the Quandl toolbox and should be installed as detailed in the README file of the Quandl toolbox.
 
 Main script files
 --------------
